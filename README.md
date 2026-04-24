@@ -5,6 +5,9 @@ This project is a hackathon-friendly full-stack app:
 - Backend: FastAPI endpoints that analyze uploaded images and call IBM Watsonx Orchestrate skills
 - Orchestrate: JSON templates (skills) included for import into Watsonx Orchestrate
 
+## Demo
+- 39-second product demo: [Watch the video](demo/demo.mp4)
+
 ## Features
 - Upload image → detect item type & condition (mock analyzer included)
 - Four actions: Sell, Donate, Recycle, Style
